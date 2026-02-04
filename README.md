@@ -1,2 +1,2 @@
-Hello from the workshop!
-This is another line!
+Hello world!
+Another line from us!
